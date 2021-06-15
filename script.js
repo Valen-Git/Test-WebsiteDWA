@@ -1,0 +1,1 @@
+document.querySelector("#osd-viewer > div > div.openseadragon-canvas > canvas")
